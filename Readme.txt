@@ -1,0 +1,2 @@
+職訓教python，練習python的語句，主要是leetcode解題，次要是到處看算法的python實現
+拿沒解過的leetcode解題，順便寫寫Golang
